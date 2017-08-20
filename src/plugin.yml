@@ -1,0 +1,13 @@
+name: Stats
+author: LuckyLemon
+version: 88
+main: de.janhecker.stats.Main
+commands:
+  stats:
+  setstats:
+  addstats:
+  remstats:
+    aliases: [removestats]
+  ranking:
+    aliases: [rank]
+  nick:
